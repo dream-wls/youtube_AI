@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+yt-dlp
+opencv-python
+scenedetect
+aiohttp
+openai
+jinja2
